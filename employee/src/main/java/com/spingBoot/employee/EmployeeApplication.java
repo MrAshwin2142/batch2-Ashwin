@@ -25,7 +25,6 @@ public class EmployeeApplication {
 
 		User user1 = userRepository.save(user);
 
-		System.out.println("hellooo...........................");
 
 		System.out.println(user1);
 	}
